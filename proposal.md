@@ -20,7 +20,7 @@
 
 **Content status:** Core quiz logic, theme ideas, timeline structure, checklist items, shopping list logic, and invite text templates are developed. Still need final business branding details from the client (official business name, short service description, potential pricing structure, and contact information for future integration).
 
-**Style preferences:** Clean and minimalist design with lots of white space, simple modern sans-serif fonts, structured layout, subtle accent colors, and a smooth quiz-style experience. The overall feel should be polished, professional, and easy to use, but still engaging and interactive.
+**Style preferences:** Clean and minimalist design with lots of white space, simple but asthetic that reflects the brand correctly.
 
 **Inspiration sites:**
 - BuzzFeed Quizzes — liked the interactive, step-by-step quiz format and satisfying results reveal  
