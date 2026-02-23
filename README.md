@@ -17,6 +17,8 @@ The goal is to give her confidence, structure, and creative direction so she can
 
 ## Link to live site
 
-# soireeparty.github.io
+[# soireeparty.github.io](https://lexiec11.github.io/soireeparty.github.io/)
 
 ## What you learned
+
+i learned so much in designing this for someone else!
