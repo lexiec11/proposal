@@ -1,7 +1,7 @@
 ## Who your client is (first name is fine)
 Georgie and party events london
 
-## lBrief description of the site
+## Brief description of the site
 This website is an interactive Party Planner built for my mum, who wants to start planning paid events as part of her business but often feels unsure about where to begin. The site helps her structure events step-by-step by asking about vibe, budget, guest count (up to 200), venue, timeline (up to one year in advance), and effort level.
 Based on her answers, the site generates a full event blueprint:
 Event type
@@ -17,8 +17,15 @@ The goal is to give her confidence, structure, and creative direction so she can
 
 ## Link to live site
 
-https://lexiec11.github.io/soireeparty.github.io/ 
+[Live Site](https://lexiec11.github.io/soireeparty.github.io/)
 
 ## What you learned
+How designing for a real client changes priorities (clarity, simplicity, and “what they’ll actually use”)
 
-i learned so much in designing this for someone else!
+How to structure a multi-step interactive flow in JavaScript (inputs → logic → generated output)
+
+How to polish UX details (defaults, validation, readable layout, and clear calls-to-action)
+
+How to deploy and troubleshoot GitHub Pages (correct branch + root folder + working live link)
+
+How to document a project clearly in a README so someone else can understand it quickly
